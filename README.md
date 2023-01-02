@@ -1,5 +1,5 @@
 # App_for_share
-Các ứng dụng được chia sẻ bởi BAOHD
+Các ứng dụng được chia sẻ
 ## hlkn_setup.exe
 ```
 App đếm giờ thi chạy trạm - Đơn vị Huấn Luyện Kỹ Năng - ĐH Y Dược Cần Thơ - CTUMP 
